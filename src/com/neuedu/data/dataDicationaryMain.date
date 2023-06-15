@@ -1,0 +1,11 @@
+{"ddmeCode":"201905130915023638","ddmeId":"1","ddmeKind":"factoryState","ddmeKindName":"工厂状态","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"201905130915132583","ddmeId":"2","ddmeKind":"userGender","ddmeKindName":"用户性别","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"201905130915224082","ddmeId":"3","ddmeKind":"userState","ddmeKindName":"用户状态","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"201905130915342813","ddmeId":"4","ddmeKind":"userRole","ddmeKindName":"用户角色","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"20190513091543134","ddmeId":"5","ddmeKind":"deviceType","ddmeKindName":"设备类型","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"20190513111755257","ddmeId":"6","ddmeKind":"deviceState","ddmeKindName":"设备状态","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"20190513180220102","ddmeId":"7","ddmeKind":"productType","ddmeKindName":"产品类型","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"201905141529053834","ddmeId":"8","ddmeKind":"orderState","ddmeKindName":"订单状态","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"20190514153137817","ddmeId":"9","ddmeKind":"bidState","ddmeKindName":"竞标状态","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"201905151617441482","ddmeId":"10","ddmeKind":"planDeviceState","ddmeKindName":"生产计划设备状态","ddmeRemark":"","msgMap":{},"selectedRow":false}
+{"ddmeCode":"201905151619072383","ddmeId":"11","ddmeKind":"planState","ddmeKindName":"生产计划生产状态","ddmeRemark":"","msgMap":{},"selectedRow":false}
